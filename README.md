@@ -6,8 +6,8 @@
   </picture>
 </p>
 
-<h3 align="center">Neha Bitale</h3>
 
+<h3 align="center">Neha Bitale</h3>
 <p align="center">
   AI & Data Science Student · Developer
 </p>
@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:bitaleneha@gmail.com">Email</a>
+  <a href="mailto:bitaleneha@gmail.com">Email</a>
   &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/neha-bitale-916153354/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/neha-bitale-916153354/">LinkedIn</a>
   &nbsp;•&nbsp;
-  🐙 <a href="https://github.com/NehaB1361">GitHub</a>
+   <a href="https://github.com/NehaB1361](https://github.com/NehaRBitale">GitHub</a>
 </p>
 
 ---
