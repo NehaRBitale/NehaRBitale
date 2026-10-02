@@ -1,12 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" width="100%" alt="Neha Bitale">
-  </picture>
-</p>
-
-
 <h3 align="center">Neha Bitale</h3>
 <p align="center">
   AI & Data Science Student · Developer
@@ -17,6 +8,7 @@
 </p>
 
 <p align="center">
+  &nbsp;•&nbsp;
   <a href="mailto:bitaleneha@gmail.com">Email</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/neha-bitale-916153354/">LinkedIn</a>
@@ -35,7 +27,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
   &nbsp;&nbsp;
-  📊 Power BI
+
 </p>
 
 ### 🎯 Focus
